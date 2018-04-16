@@ -40,3 +40,11 @@ footer .credits {
 .nav.nav-tabs.nav-define {
 	font-size: 20px;
 }
+
+.logo.row-fluid {
+	padding-left: 100px;
+}
+
+.navhead.row-fluid {
+	padding-left: 100px;
+}
